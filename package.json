@@ -1,0 +1,16 @@
+{
+  "name": "tensorflowjson",
+  "version": "1.0.0",
+  "description": "An api for passing a json object and outputing a trainable tensorflow model",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "keywords": [
+    "tensorflow",
+    "json",
+    "api"
+  ],
+  "author": "Matthew Jones",
+  "license": "MIT"
+}
